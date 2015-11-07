@@ -1,0 +1,20 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Example of using express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --use-strict index.js"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "example"
+  ],
+  "author": "David Menger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
