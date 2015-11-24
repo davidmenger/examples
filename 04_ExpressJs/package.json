@@ -1,0 +1,20 @@
+{
+  "name": "express-js-example",
+  "version": "1.0.0",
+  "description": "Sample expressjs app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --use-strict ./bin/www"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "example",
+    "tutorial"
+  ],
+  "author": "David Menger",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
